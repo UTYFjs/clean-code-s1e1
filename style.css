@@ -164,11 +164,11 @@
   display: none;
 }
 
-.list .list-item.editMode .input_text {
+.list .list-item.list-item_edit-mode .input_text {
   display: inline-block;
   width: 224px;
 }
 
-.list .list-item.editMode .label {
+.list .list-item.list-item_edit-mode .label {
   display: none;
 }
